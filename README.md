@@ -5,14 +5,14 @@ Broadpwn bug (CVE-2017-9417)
 
   $ adb shell 
   
-  setenforce 0
+  #setenforce 0
   
-  cp fw_bcmdhd.bin /data/local/tmp/firmware/
+  #cp fw_bcmdhd.bin /data/local/tmp/firmware/
   
-  chmod 755 /data/local/tmp/firmware/fw_bcmdhd.bin
+  #chmod 755 /data/local/tmp/firmware/fw_bcmdhd.bin
   
-  mount -o bind /data/local/tmp/firmware /vendor/firmware
+  #mount -o bind /data/local/tmp/firmware /vendor/firmware
   
-  stop
+  #stop
   
-  start
+  #start
