@@ -17,4 +17,4 @@ Broadpwn bug (CVE-2017-9417)
   
   #start
 
-  If you have any questions: Linnebergmai@gmail.com
+  If you have any questions, feel free to ask: Linnebergmai@gmail.com
