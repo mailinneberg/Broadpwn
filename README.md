@@ -13,6 +13,7 @@ Broadpwn bug (CVE-2017-9417)
   
   #mount -o bind /data/local/tmp/firmware /vendor/firmware
   
+  
   #start
 
   If you have any questions, feel free to ask for more information: Linnebergmai@gmail.com
