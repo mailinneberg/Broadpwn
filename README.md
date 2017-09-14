@@ -1,6 +1,6 @@
 
 # Broadpwn
-# If you developer join to my team and help us: Linnebergmai@gmail.com
+| Join or Ask: Linnebergmai@gmail.com | Youtube: https://youtu.be/GTb4Y2Y9shw | Help PR.
 
 Broadpwn bug (CVE-2017-9417)
 
