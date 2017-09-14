@@ -3,6 +3,7 @@
 - Join or Ask: Linnebergmai@gmail.com 
 - Broadpwn Youtube: https://youtu.be/GTb4Y2Y9shw 
 - BlueBorne: https://github.com/mailinneberg/Broadpwn | Youtube https://youtu.be/FJGGMyg0W38
+- Yalu Jailbreak iOS 10.3.1 : https://goo.gl/9cSSPU
 - Help PR.
 
 Broadpwn bug (CVE-2017-9417)
