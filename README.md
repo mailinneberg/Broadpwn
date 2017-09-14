@@ -2,7 +2,7 @@
 # Broadpwn
 - Join or Ask: Linnebergmai@gmail.com 
 - Broadpwn Youtube: https://youtu.be/GTb4Y2Y9shw 
-- BlueBorne: mailinneberg/Broadpwn | Youtube https://youtu.be/FJGGMyg0W38
+- BlueBorne: https://github.com/mailinneberg/Broadpwn | Youtube https://youtu.be/FJGGMyg0W38
 - Help PR.
 
 Broadpwn bug (CVE-2017-9417)
