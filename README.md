@@ -1,8 +1,8 @@
 
 # Broadpwn
 - Join or Ask: Linnebergmai@gmail.com 
-- Broadpwn: https://goo.gl/PSDuwY | Youtube: https://youtu.be/GTb4Y2Y9shw 
-- BlueBorne: https://goo.gl/xWC4hg | Youtube https://youtu.be/FJGGMyg0W38
+- Broadpwn: https://goo.gl/xWC4hg | Youtube: https://youtu.be/GTb4Y2Y9shw 
+- BlueBorne: https://goo.gl/PSDuwY | Youtube https://youtu.be/FJGGMyg0W38
 - Yalu Jailbreak iOS 10.3.1 : https://goo.gl/9cSSPU
 - Help PR.
 
